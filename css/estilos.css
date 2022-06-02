@@ -1,0 +1,47 @@
+html, body {
+    font-family: Verdana, Arial, sans-serif;
+    color: #775548;
+    
+}
+
+.imgPrincipal {
+    width: 100%;
+}
+
+.EnlacesPrincipales {
+ color: #ef6d24;
+ font-weight: bold;
+}
+
+h1 {
+    color: #775548;
+}
+h2 {
+    background-color: #775548;
+    color: #e1d4cf;
+}
+ .item5 {
+    font-weight: bold;
+}
+ 
+.PorQue {
+    color: #d8b03b;
+}
+
+.LaNacion {
+    color: #3aabc4;
+    font-weight: bold;
+    
+}
+.Pag12 {
+    color: #ef4b51;
+    font-weight: bold;
+}
+
+.cabania1 {
+    border-color: black;
+    width: 50px;
+}
+.ducha {
+    font-weight: bold;
+}

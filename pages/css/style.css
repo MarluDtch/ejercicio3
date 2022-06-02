@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 40px;
+    font-family: Verdana, Arial, sans-serif;
+    color: #775548;
+}
+
+h1 {
+    background-color: beige;
+    border-color: beige solid ;
+    margin: auto;
+    padding: 30px;
+}
+
+.cabania1 {
+    width: 430px;
+    margin: 25px;
+    display: block;
+}
+
+.cabania2 {
+    width: 500px;
+    margin: 25px;
+    display: block;
+}
+.div {
+    display: block;
+}
+
+h2 {
+    font-size: 16px;
+    margin-left: 25px;
+}
+
+.inicio {
+    color: blue;
+    font-size: 20px;
+    padding: 30px;
+    border: 30px;
+}
